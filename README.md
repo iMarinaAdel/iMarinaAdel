@@ -80,15 +80,3 @@ I learn fast and love to build things from scratch! Let's create awesome apps to
 
 ### ☕ Let's Connect
 **If you like what I do, feel free to connect or collaborate!**
-
-
----
-
-### ⚡ Fun fact
-I learn fast and love to build things from scratch! Let's create awesome apps together ✨
-
----
-
-### ☕ Let's Connect
-**If you like what I do, feel free to connect or collaborate!**
-
