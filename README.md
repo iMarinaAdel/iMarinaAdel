@@ -14,6 +14,8 @@
 ### 🚀 About Me
 
 - 🌱 I’m currently learning **Flutter** to build beautiful and responsive mobile apps.  
+- 🎓 I'm a student at the Faculty of Computers and Information, Beni-Suef University.  
+- 🤝 I’m currently training through the **Digital Egypt Pioneers (DEPI)** initiative in the mobile development track.  
 - 🔧 Technologies I use: `Flutter`, `Dart`, `Git`, `VS Code`, and more.  
 - 📫 Reach me at: **rinaa1775@gmail.com**  
 - 🌟 I believe in learning by doing. I love turning ideas into real apps.
@@ -35,15 +37,18 @@
 
 ---
 
-### 🛠️ Languages and Tools
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="40" height="40"/>
-</p>
+### 🛠️ Tech Stack:
+
+- 💻 Languages: `Dart`, `C++`, `Python`, `SQL`
+- 📱 Frameworks: `Flutter`
+- 🛠 Tools: `Git`, `GitHub`, `VS Code`
+
+---
+
+### 🌐 Languages:
+
+- 🇺🇸 English (Professional)
+- 🇪🇬 Arabic (Native)
 
 ---
 
